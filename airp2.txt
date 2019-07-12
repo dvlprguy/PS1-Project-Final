@@ -1,0 +1,96 @@
+The World Health Organization defines air pollution as “the presence of materials in the air in such concentration which are harmful to man and his environment.”
+
+In fact air pollution is the occurrence or addition of foreign particles, gases and other pollutants into the air which have an adverse effect on human beings, animals, vegetation, buildings, etc.
+Cause of Air Pollution:
+
+The various causes of air pollution are:
+
+(i) Combustion of natural gas, petroleum, coal and wood in industries, automobiles, aircrafts, railways, thermal plants, agricultural burning, kitchens, etc. (soot, flyash, CO2, CO, nitrogen oxides, sulphur oxides).
+
+(ii) Metallurgical processing (mineral dust, fumes containing fluorides, sulphides and metallic pollutants like lead, chromium, nickel, beryllium, arsenic, vanadium, cadmium, zinc, mercury).
+
+ADVERTISEMENTS:
+
+(iii) Chemical industries including pesticides, fertilizers, weedicides, fungicides.
+
+(iv) Cosmetics.
+
+(v) Processing industries like cotton textiles, wheat flour mills, asbestos.
+
+(vi) Welding, stone crushing, gem grinding.
+
+ADVERTISEMENTS:
+
+Natural air pollutants include (a) pollen, spores, (b) marsh gas, (c) volcanic gases and (a) synthesis of harmful chemicals by electric storms and solar flares. The major cause of pollution in the urban areas is automobiles which inefficiently burn petroleum, releases 75% of noise and 80% of air pollutants. Concentration of industries in one area is another major cause of air pollution.
+Effect of Air Pollutants:
+
+Air pollutants are broadly classified into particulate and gaseous. The particulate substances include solid and liquid particles. The gaseous include substances that are in the gaseous state at normal temperature and pressure. The air pollutants have adverse effect on human beings, animals, vegetation, buildings. Air pollutants also change earth’s climate. Aesthetic sense is also influenced by air pollutants. The different air pollutants and their effects are as follows:
+1. Particulate Matter:
+
+It is of two types—settleable and suspended. The settleable dusts have a particle longer than 10 (am. The smaller particles are able to remain suspended for long periods in the air. The important effects of particulate matter are.
+
+(i) Dust and smoke particles cause irritation of the respiratory tract and produces bronchitis, asthma and lung diseases.
+
+ADVERTISEMENTS:
+
+(ii) Smog is a dark or opaque fog which is formed by the dust and smoke particles causing condensation of water vapours around them as well as attracting chemicals like SO2, H2S, NO2, etc. Smog harms plant life through glazing and necrosis besides reduced availability of light. In human beings and animals it produces respiratory troubles.
+
+(iii) Particulate matter suspended in air, scatters and partly absorbs light. In industrial and urban areas, sunlight is reduced to 1/3 in summer and 2/3 in winter.
+
+(iv) At a concentration above 150 g/100m3, cotton dust in ginning process produces pneumoconiosis or lung fibrosis called byssinosis. Lung fibrosis produced in other industries includes asbestosis (in asbestos industry), silicosis (stone grinders), siderosis (iron mill), coal miners’ pneumoconiosis, flour mill pneumoconiosis, etc.
+2. Carbon monoxide:
+
+It accounts for 50% of the total atmospheric pollutants. It is formed by incomplete combustion of carbon fuels in various industries, motor vehicles, hearths, kitchens, etc. Carbon monoxide combines with haemoglobin of blood and impairs its oxygen carrying capacity. At higher concentration, carbon monoxide proves lethal.
+3. Sulphur Oxides:
+
+ADVERTISEMENTS:
+
+They occur mainly in the form of sulphur dioxide. It is produced in large quantity during smelting of metallic ores and burning of petroleum and coal in industries, thermal plants, home and motor vehicles. In the air, SO2 combines with water to form sulphurous acid (H2SO3) which is the cause of acid rain. It causes chlorosis and necrosis of vegetation. Sulphur dioxide, above 1 ppm, affects human beings. It causes irritation to eyes and injury to respiratory tract. It results in discolouration and deterioration of buildings, sculptures, painted surfaces, fabrics, paper, leather, etc.
+4. Nitrogen Oxides:
+
+They are produced naturally through biological and non-biological activities from nitrates, nitrites, electric storms, high energy radiations and solar flares. Human activity forms nitrogen oxides in combustion process of industries, automobiles, incinerators and nitrogen fertilizers. Nitrogen oxides act on unsaturated hydrocarbons to form peroxy-acyl nitrates or PAN. It gives rise to photochemical smog. They cause eye irritation, respiratory troubles, blood congestion and dilation of arteries.
+5. Carbon dioxide:
+
+Due to excessive combustion activity, the content of C02 has been steadily rising. As carbon dioxide accumulates in the atmosphere it absorbs more and more of the reflected infrared radiation. This could cause an increase in temperature referred to as the green house effect. Melting polar ice caps and glaciers could cause sea levels to rise, flooding most of the major population centres and fertile lands.
+6. Phosgene and Methyl Isocyanate:
+
+Phosgene (COCl2) is a poisonous and suffocating volatile liquid which is employed in dye industry and synthesis of organic compounds. Release of phosgene and MIC in industrial accident of Bhopal (Dec. 2, 1984) killed over 2500 and maimed several thousand persons.
+7. Aerosols:
+
+They are widely used as disinfectants. Other sources are jet plane emissions which contain chlorofluorocarbons. Chlorofluorocarbons are also used in refrigeration and formation of certain types of solid plastic foams. Burning of plastics produces polychlorinated biphenyls (PCBs). The latter are persistent and pass into the food chain. Chlorofluorocarbons and carbon tetrachloride react with ozone layers of stratosphere and hence deplete the same.
+8. Photochemical oxidants:
+
+Hydrocarbons have carcinogen properties. Some of these are also harmful to plants because they cause senescence and abscission. In the presence of sunlight, hydrocarbons react with nitrogen oxides to produce ozone, peroxy-acyl nitrates, aldehydes and other compounds. Peroxy-acyl nitrates are a major constituent of air pollution. They cause eye irritation and respiratory diseases.
+9. Automobile Exhausts:
+
+They are one of the major sources of air pollution. The important pollutants are Carbon monoxide, Benzpyrene, Lead, Nitrogen oxides, Sulphur compounds and Ammonia.
+10. Pollen and Microbes:
+
+Excess of microbes in the atmosphere directly damage the vegetation, food articles and causes diseases in plants, animals and human beings. Excess of pollen causes allergic reactions in several human beings. The common reactions are also collectively called hay-fever. The important allergic pollen belong to Amaranthus spinosus, Chenopodium album, Cynodon dactylon, Ricinus communis, Sorghum vulgare, Prosopis chilensis etc.
+Control of Air Pollution:
+
+1. Industrial estates should be established at a distance from residential areas.
+
+2. Use of tall chimneys shall reduce the air pollution in the surroundings and compulsory use of filters and electrostatic precipitators in the chimneys.
+
+3. Removal of poisonous gases by passing the fumes through water tower scrubber or spray collector.
+
+4. Use of high temperature incinerators for reduction in particulate ash production.
+
+5. Development and employment of non-combustive sources of energy, e.g., nuclear power, geothermal power, solar power, tidal power, wind power, etc.
+
+6. Use of non-lead antiknock agents in gasoline.
+
+ADVERTISEMENTS:
+
+7. Attempt should be made to develop pollution free fuels for automobiles, e.g., alcohol, hydrogen, battery power. Automobiles should be fitted with exhaust emission controls.
+
+8. Industrial plants and refineries should be fitted with equipment for removal and recycling of wastes.
+
+9. Growing plants capable of fixing carbon monoxide, e.g. Phaseolus vulgaris, Coleus blumei, Daucus carota, Ficus variegata (Bidwell and Bebee, 1974).
+
+10. Growing plants capable of metabolising nitrogen oxides and other gaseous pollutants, e.g., Vitis, Pimis, Jttniperus, Quercus, Pyrus, Robinia pseudo-acacia, Viburnum, Crataegus, Ribes, Rhamnus.
+
+ADVERTISEMENTS:
+
+11. Afforestation of the mining area on priority basis
